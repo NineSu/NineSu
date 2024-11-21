@@ -9,7 +9,6 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <img src="https://cdn.jsdelivr.net/gh/NineSu/NineSu/assets/images/coding.gif" alt />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
@@ -20,11 +19,11 @@
   </div>
 
   <!-- 活跃贪吃蛇 -->
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NineSu/NineSu/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NineSu/NineSu/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NineSu/NineSu/output/github-contribution-grid-snake.svg">
-  </picture>
+  </picture> -->
 
   <!-- 个人信息统计 -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NineSu&show_icons=true&hide_border=true" alt="Sue's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NineSu&layout=compact&theme=buefy&hide_border=true" />
